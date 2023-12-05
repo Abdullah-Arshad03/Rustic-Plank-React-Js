@@ -1,0 +1,2 @@
+
+3793f3026fa15c19947296d687bbd8055b516e21	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/chokidar","integrity":null,"time":1701807626517,"size":"0","metadata":{"time":1701807626517,"url":"http://registry.npmjs.org/chokidar","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:20:46 GMT","location":"https://registry.npmjs.org/chokidar","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,4 +1,8 @@
 import React from "react";
+import leftPoster from '../../../images/left-poster.png'
+import rightPoster from '../../../images/right-poster.png'
+
+
 
 
 const Updates = () =>{
@@ -9,7 +13,7 @@ const Updates = () =>{
         <h2 className="latest-updates-heading">Latest Updates</h2>
         <div className="update-posters">
           <div className="update-left-poster">
-            <img src="/public/images/left-poster.png" width="300x" alt="" />
+            <img src={leftPoster} width="300x" alt="" />
             <h3>Lorem ipsum</h3>
             <p className="para-in-updates">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit
@@ -20,7 +24,7 @@ const Updates = () =>{
             <section className="para-btn1"><button>Details</button></section>
           </div>
           <div className="update-middle-poster">
-            <img src="/public/images/right-poster.png" width="300px" alt="" />
+            <img src={rightPoster} width="300px" alt="" />
             <h3>Lorem ipsum</h3>
 
             <p className="para-in-updates">
@@ -32,7 +36,7 @@ const Updates = () =>{
             <section className="para-btn1"><button>Details</button></section>
           </div>
           <div className="update-right-poster">
-            <img src="/public/images/right-poster.png" width="300px" alt="" />
+            <img src={rightPoster} width="300px" alt="" />
 
             <h3>Lorem ipsum</h3>
             <p className="para-in-updates">

@@ -1,0 +1,2 @@
+
+d9e68c46f655d458b7e1514f3c62ba8d7810f11a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lru-cache","integrity":null,"time":1701807627120,"size":"0","metadata":{"time":1701807627119,"url":"http://registry.npmjs.org/lru-cache","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:20:47 GMT","location":"https://registry.npmjs.org/lru-cache","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

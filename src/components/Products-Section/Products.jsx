@@ -1,4 +1,18 @@
 import React from "react";
+import item1 from '../../../images/item1.png'
+import item2 from '../../../images/item2.png'
+import item3 from '../../../images/item3.png'
+import item4 from '../../../images/item4.png'
+import item5 from '../../../images/item5.png'
+import item6 from '../../../images/item6.png'
+import item7 from '../../../images/item7.png'
+import item8 from '../../../images/item8.png'
+import item9 from '../../../images/item9.png'
+import item10 from '../../../images/item10.png'
+import item11 from '../../../images/11.png'
+import item12 from '../../../images/item12.png'
+
+
 
 
 const Products = () =>{
@@ -11,7 +25,7 @@ const Products = () =>{
       <section className="fourth">
         <section className="categories item4">
           <section className="product1">
-            <img src="/public/images/item1.png" />
+            <img src={item1} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -23,7 +37,7 @@ const Products = () =>{
         </section>
         <section className="categories item5">
           <section className="product1">
-            <img src="/public/images/item2.png" />
+            <img src={item2} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -35,7 +49,7 @@ const Products = () =>{
         </section>
         <section className="categories item6">
           <section className="product1">
-            <img src="/public/images/item3.png" />
+            <img src={item3} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -47,7 +61,7 @@ const Products = () =>{
         </section>
         <section className="categories item7">
           <section className="product1">
-            <img src="/public/images/item4.png" />
+            <img src={item4} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -59,7 +73,7 @@ const Products = () =>{
         </section>
         <section className="categories item8">
           <section className="product1">
-            <img src="/public/images/item5.png" />
+            <img src={item5} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -71,7 +85,7 @@ const Products = () =>{
         </section>
         <section className="categories item9">
           <section className="product1">
-            <img src="/public/images/item6.png" />
+            <img src={item6} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -83,7 +97,7 @@ const Products = () =>{
         </section>
         <section className="categories item10">
           <section className="product1">
-            <img src="/public/images/item7.png" />
+            <img src={item7}/>
           </section>
           <section className="description1">
             <section className="d1">
@@ -95,7 +109,7 @@ const Products = () =>{
         </section>
         <section className="categories item11">
           <section className="product1">
-            <img src="/public/images/item8.png" />
+            <img src={item8} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -107,7 +121,7 @@ const Products = () =>{
         </section>
         <section className="categories item12">
           <section className="product1">
-            <img src="/public/images/item9.png" />
+            <img src={item9}/>
           </section>
           <section className="description1">
             <section className="d1">
@@ -119,7 +133,7 @@ const Products = () =>{
         </section>
         <section className="categories item13">
           <section className="product1">
-            <img src="/public/images/item10.png" />
+            <img src={item10} />
           </section>
           <section className="description1">
             <section className="d1">
@@ -131,7 +145,7 @@ const Products = () =>{
         </section>
         <section className="categories item14">
           <section className="product1">
-            <img src="/public/images/11.png" />
+            <img src={item11}  />
           </section>
           <section className="description1">
             <section className="d1">
@@ -143,7 +157,7 @@ const Products = () =>{
         </section>
         <section className="categories item15">
           <section className="product1">
-            <img src="/public/images/item12.png" />
+            <img src={item12} />
           </section>
           <section className="description1">
             <section className="d1">

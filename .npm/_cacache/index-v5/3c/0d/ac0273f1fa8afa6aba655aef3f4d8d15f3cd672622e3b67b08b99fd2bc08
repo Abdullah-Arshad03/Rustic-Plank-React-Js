@@ -1,0 +1,2 @@
+
+7341d110360f432ec93ea1b997c60869ef8cf281	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/readdirp","integrity":null,"time":1701807627122,"size":"0","metadata":{"time":1701807627122,"url":"http://registry.npmjs.org/readdirp","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:20:47 GMT","location":"https://registry.npmjs.org/readdirp","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

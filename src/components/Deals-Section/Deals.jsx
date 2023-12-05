@@ -1,4 +1,7 @@
 import React from "react";
+import leftPoster from '../../../images/left-poster.png'
+import rightPoster from '../../../images/right-poster.png'
+
 
 
 const Deals = () =>{
@@ -11,10 +14,10 @@ const Deals = () =>{
         </div>
         <div className="posters">
           <div className="left-poster">
-            <img src="/public/images/left-poster.png" width="400x" alt="" />
+            <img src={leftPoster} width="400x" alt="" />
           </div>
           <div className="right-poster">
-            <img src="/public/images/right-poster.png" width="400px" alt="" />
+            <img src={rightPoster} width="400px" alt="" />
           </div>
         </div>
       </section>

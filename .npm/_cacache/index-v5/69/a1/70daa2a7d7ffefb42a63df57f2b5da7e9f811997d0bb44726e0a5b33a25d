@@ -1,0 +1,2 @@
+
+164d82b62f95e26e4e2ad4338c0231400e8c8a90	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz","integrity":null,"time":1701809794356,"size":"0","metadata":{"time":1701809794355,"url":"http://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:56:54 GMT","location":"https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

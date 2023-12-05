@@ -1,11 +1,12 @@
 import React from "react";
+import mainImage from '../../../images/2.png'
 
 
 const MainPage = () =>{
     return(<>
    <section className="second">
         <section className="product">
-          <img className="second-image" src="/public/images/2.png" /></section>
+          <img className="second-image" src={mainImage} /></section>
         <section className="text">
           <p className="info">
             This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel

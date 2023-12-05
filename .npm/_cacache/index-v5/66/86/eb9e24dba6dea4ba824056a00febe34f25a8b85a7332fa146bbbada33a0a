@@ -1,0 +1,2 @@
+
+13a7551926632b9aa4b94b7efbfa05e683ca75b9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz","integrity":null,"time":1701807681533,"size":"0","metadata":{"time":1701807681532,"url":"http://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:21:41 GMT","location":"https://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

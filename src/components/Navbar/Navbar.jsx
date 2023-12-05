@@ -1,10 +1,12 @@
 import React from "react";
+import logo from '../../../images/logo.png'
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 
 const Navbar = () =>{
     return(<>
       <nav classNameName="navigation">
-        <img className="logo-image" src="/public/images/logo.png" />
+        <img className="logo-image" src={logo} />
         <ul className="nav-things">
           <li>Home</li>
           <li>Blog</li>
@@ -15,7 +17,7 @@ const Navbar = () =>{
         <ol className="my-account account-things ">
           <li> <a href="/RegistrationPage.html">Sign Up</a> </li>
           <li>
-            {/* <!-- <i className="fa-solid fa-cart-shopping" style="color: #f97907"></i> --> */}
+        <ShoppingCartIcon Size={1}/>
           </li>
           <li className="zero-item">0 item</li>
         </ol>

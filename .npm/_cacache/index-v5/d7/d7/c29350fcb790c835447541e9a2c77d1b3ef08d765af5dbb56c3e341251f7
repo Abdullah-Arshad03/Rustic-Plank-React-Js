@@ -1,0 +1,2 @@
+
+bfbe65371cb48c1250db85fc0e58cfedf2bdb939	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/undefsafe/-/undefsafe-2.0.5.tgz","integrity":null,"time":1701807629331,"size":"0","metadata":{"time":1701807629331,"url":"http://registry.npmjs.org/undefsafe/-/undefsafe-2.0.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:20:49 GMT","location":"https://registry.npmjs.org/undefsafe/-/undefsafe-2.0.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+030a876fd258e587b88006c1bcab35e717f1baaf	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/email-addresses","integrity":null,"time":1701809789021,"size":"0","metadata":{"time":1701809789020,"url":"http://registry.npmjs.org/email-addresses","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 05 Dec 2023 20:56:49 GMT","location":"https://registry.npmjs.org/email-addresses","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

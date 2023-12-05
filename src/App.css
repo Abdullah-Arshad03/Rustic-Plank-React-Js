@@ -103,7 +103,7 @@ header ul li button i
 
 .second
 {
-    background-image:url('/public/images/1.png');
+    background-image:url('../images/1.png');
     background-size:cover;
     background-repeat: no-repeat;
     height:fit-content;
@@ -557,7 +557,7 @@ padding: 60;
 
 .bottom
 {
-    background-image: url(/public/images/footer.png);
+    background-image: url(../images/footer.png);
    
     background-repeat: no-repeat;
     background-size: cover;
