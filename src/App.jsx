@@ -6,19 +6,20 @@ import Products from "./components/Products-Section/Products";
 import Deals from "./components/Deals-Section/Deals";
 import Updates from "./components/Updates-section/Updates";
 import Footer from "./components/Footer/Footer";
+import Logos from "./components/Companies-logos/Logos";
 import './App.css'
 
 const App = () =>{
   return(<>
 
- {/* <Navbar/> */}
- {/* <MainPage/> */}
+ <Navbar/>
+ <MainPage/>
  <Collections/>
  <Products/>
  <Deals/>
  <Updates/>
+ <Logos/>
  <Footer/>
-      
   </>)
 }
 
