@@ -25,7 +25,7 @@ const Navbar = () =>{
 
       <header className="categories">
         <ul>
-          <li>BEDS</li>
+          <li>BEDSs</li>
           <li>CABINETS</li>
           <li>BOOKCASES</li>
           <li>BOXES</li>
